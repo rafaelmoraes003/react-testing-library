@@ -39,7 +39,7 @@ describe('testa o componente App', () => {
     expect(favoriteLink).toBeInTheDocument();
     userEvent.click(favoriteLink);
     const { pathname } = history.location;
-    expect(pathname).toBe('/favorites'); //
+    expect(pathname).toBe('/favorites');
   });
 
   test('Aplicação é redirecionada para a página Not Found - URL desconhecida', () => {
