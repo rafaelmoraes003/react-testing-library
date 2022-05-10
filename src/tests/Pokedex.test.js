@@ -115,7 +115,7 @@ describe('Testa o componente Pokedex', () => {
       }
       if (index === pokemons.length - 1) {
         userEvent.click(nextBtn);
-        expect(screen.getByText(pokemons[0])).toBeInTheDocument();
+        expect(screen.getByText(pokemons[0])).toBeInTheDocument(); //
       }
     });
   });
