@@ -1,25 +1,25 @@
-<h1 align="left">Projeto React Testing Library</h1>
+<h1 align="left">React Testing Library</h1>
 
 ###
 
-<p align="left">O objetivo deste projeto era aprofundar os conhecimentos em React Testing Library.</p>
+<p align="left">The objective of this project was to deepen knowledge in the React Testing Library (RTL).</p>
 
 ###
 
-<h2 align="left">Tecnologias utilizadas</h2>
+<h2 align="left">Technologies used</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="62" alt="react logo"  />
 </div>
 
 ###
 
-<h2 align="left">Como utilizar a aplicação</h2>
+<h2 align="left">How to use the application</h2>
 
 ###
 
-Faça o clone da aplicação usando o comando `git clone`. Após isso, entre na pasta do projeto utilizando o comando `cd react-testing-library` e rode o comando `npm install`. Após a instalação, utilize o comando `npm start`.
+Clone the application using the `git clone` command. After that, enter the project folder using the `cd react-testing-library` command and run the `npm install` command. After installation, use the `npm start` command.
 
 ###
